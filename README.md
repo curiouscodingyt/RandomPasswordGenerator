@@ -4,7 +4,7 @@ Tool to generate unique, strong passwords to minimise the risk of being exposed 
 
 ## Configuration
 ```bash
-$ python create_repo.py --help
+$ python pwg.py --help
 ```
 
 | Argument  | Description |
